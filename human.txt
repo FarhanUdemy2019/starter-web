@@ -6,7 +6,7 @@
    Jason Tylor jason@git.training @awesomejt
    
 # THANKS
-
+    All my students!
   <name>
 
 # TECHNOLOGY COLOPHON
